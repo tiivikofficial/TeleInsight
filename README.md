@@ -27,6 +27,6 @@ A sophisticated Python tool for analyzing Telegram channel activity, providing d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/teleinsight.git
+https://github.com/tiivikofficial/TeleInsight.git
 cd teleinsight
 pip install -r requirements.txt
